@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/drawable-v24/bg.xml" value="0.1" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/drawable-v24/btn_corner.xml" value="0.24074074074074073" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/drawable/btn_segitiga.xml" value="0.18425925925925926" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.18425925925925926" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/drawable/shape_corner.xml" value="0.2760416666666667" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/activity_halaman_menu.xml" value="0.25833333333333336" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/activity_hasil_permainan.xml" value="0.2" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/activity_lawan_pemain.xml" value="0.2" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/activity_slide_screen.xml" value="0.12563323201621074" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/activity_splash_screen2.xml" value="0.25833333333333336" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/fragment_dialog_hasil.xml" value="0.23541666666666666" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/fragment_landing1.xml" value="0.176" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/fragment_landing2.xml" value="0.16802536231884058" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/fragment_landing3.xml" value="0.25" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/fragment_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/halaman_menu.xml" value="0.25" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/splash_screen.xml" value="0.16802536231884058" />
+        <entry key="..\:/Binar/Chapter 5/KertasGuntingBatu/app/src/main/res/layout/splash_screen2.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.landing.Landing3Fragment">
+
+    <ImageView
+        android:id="@+id/ivLanding3"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="160dp"
+        android:contentDescription="@string/landing3"
+        android:src="@drawable/landing_page3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvLanding2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/tektonpro_boldcond"
+        android:gravity="center"
+        android:text="@string/tuliskan_namamu_di_bawah"
+        android:textColor="@color/black"
+        android:textSize="32sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ivLanding3" />
+
+    <EditText
+        android:id="@+id/etNama"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:enabled="true"
+        android:gravity="center"
+        android:hint="@string/nama"
+        android:autofillHints="nama"
+        android:inputType="text"
+        android:maxLength="10"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvLanding2" />
+
+    <View
+        android:id="@+id/viewLine"
+        android:layout_width="300dp"
+        android:layout_height="2dp"
+        android:background="#2956C6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/etNama" />
+
+    <ImageView
+        android:id="@+id/ivNext"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/ivnext"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/ic_baseline_play_arrow_24"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+        android:id="@+id/dots_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        app:dotsColor="@color/bluebdraw"
+        app:dotsCornerRadius="8dp"
+        app:dotsSize="20dp"
+        app:dotsSpacing="4dp"
+        app:dotsWidthFactor="2.5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:progressMode="true"
+        app:selectedDotColor="@color/bluebdraw" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

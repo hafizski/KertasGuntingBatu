@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">KertasGuntingBatu</string>
+    <string name="pemain_menang">Pemain 1\nMENANG</string>
+    <string name="komputer_menang"> CPU\nMENANG</string>
+    <string name="pemain2_menang">Pemain 2\nMENANG</string>
+    <string name="seri">DRAW</string>
+    <string name="vs">VS</string>
+    <string name="kertas_batu_gunting">Kertas Batu Gunting</string>
+    <string name="pemain_1">Pemain 1</string>
+    <string name="pemain_1_memilih_batu">Batu</string>
+    <string name="pemain_1_memilih_kertas">Kertas</string>
+    <string name="pemain_1_memilih_gunting">Gunting</string>
+    <string name="com">COM</string>
+    <string name="reset">Reset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pilih_lawanmu">PILIH LAWANMU</string>
+    <string name="pemainvspemain">PemainvsPemain</string>
+    <string name="pemain_vs_pemain">Pemain vs Pemain</string>
+    <string name="pemainvscpu">PemainvsCPU</string>
+    <string name="pemain_vs_cpu">Pemain vs CPU</string>
+    <string name="btnclose">btnClose</string>
+    <string name="pemain_2">Pemain 2</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="splash_screen2">Splash Screen2</string>
+    <string name="hasil_permainan">Hasil Permainan</string>
+    <string name="pemain_1_menang">Pemain 1 Menang!</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="kembali_ke_menu">Kembali Ke Menu</string>
+    <string name="landing1">Landing1</string>
+    <string name="bermain_suit_melawan_sesama_pemain">Bermain suit melawan sesama pemain.</string>
+    <string name="landing2">Landing2</string>
+    <string name="bermain_suit_melawan_komputer">Bermain suit melawan komputer.</string>
+    <string name="landing3">Landing3</string>
+    <string name="tuliskan_namamu_di_bawah">Tuliskan namamu di bawah</string>
+    <string name="nama">Nama</string>
+    <string name="ivnext">ivNext</string>
+    <string name="ivclose">ivClose</string>
+</resources>
